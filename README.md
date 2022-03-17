@@ -11,6 +11,13 @@
     pip install streamlit
 ## >>> Nhập vào terminal:
     streamlit hello
+## >>> Lưu ý: Có một thư viện sẽ báo lỗi (wordcloud)
+## >>> Khắc phục: Bật anaconda3 Powershell Prompt lên, gõ vào dòng lệnh
+    conda install wordcloud
+## >>> Sau đó ta tiếp tục với câu lệnh:
+    pip install wordcloud
+## hoặc là
+    pip3 install wordcloud
 ## Sau đó chúng ta sẽ thực hiện chương trình trực quan hóa dashboard trên một localhost
 ## A. Implementation
 ## >>> Import các thư viện cần thiết
